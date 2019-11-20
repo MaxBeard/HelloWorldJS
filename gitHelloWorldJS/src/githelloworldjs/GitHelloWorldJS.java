@@ -16,6 +16,7 @@ public class GitHelloWorldJS {
      */
     public static void main(String[] args) {
         //LMAO or idk whatever we are just doing an example
+        System.out.println("LMAO YOU GOT HACKED ");
     }
     
 }
